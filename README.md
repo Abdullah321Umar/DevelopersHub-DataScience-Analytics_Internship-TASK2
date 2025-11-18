@@ -108,7 +108,7 @@ Machine learning transforms these reflections into reliable guidance.
 ## 🏁 Closing Thought
 > “Every loan decision carries a story. Data ensures that story is understood — not guessed.”
 
-— Author — Abdullah Umar, Data Science & Analytics Intern at DevelopersHub Corporation 
+### — Author — Abdullah Umar, Data Science & Analytics Intern at DevelopersHub Corporation 
 
 ---
 
